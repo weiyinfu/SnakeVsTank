@@ -1,0 +1,6 @@
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\bin\Debug\SnakeVsTank.exe.config
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\bin\Debug\SnakeVsTank.exe
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\bin\Debug\SnakeVsTank.pdb
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\obj\Debug\SnakeVsTank.csprojResolveAssemblyReference.cache
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\obj\Debug\SnakeVsTank.exe
+C:\Users\weidiao\Desktop\SnakeVsTank\SnakeVsTank\obj\Debug\SnakeVsTank.pdb
